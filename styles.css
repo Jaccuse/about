@@ -1,10 +1,6 @@
-#content {
-    margin: 5% 10%;
-    text-align: center;
-}
-
 body {
     background: #2a2a2a;
+    margin: 0px;
 }
 
 img {
@@ -16,11 +12,21 @@ p, h2 {
     font-family: sans-serif;
 }
 
+#content {
+    margin: 5% 0%;
+    text-align: center;
+}
+
 #header {
-    background: #000000;
+    background: #111111;
     text-align: center;
 }
 
 #header h2 {
     padding: 20px 0px;
+}
+
+.bio {
+    background: #111111;
+    padding: 5%;
 }
